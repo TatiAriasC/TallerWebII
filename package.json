@@ -1,0 +1,18 @@
+{
+  "name": "Taller-Carros",
+  "version": "1.0.0",
+  "description": "CARROS",
+  "main": "index.js",
+  "scripts": {
+    "test": "express"
+  },
+  "keywords": [
+    "carros"
+  ],
+  "author": "TATIANA ARIAS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
